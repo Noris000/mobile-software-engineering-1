@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="hello_message">This is the first application from Group 4:\n
+• Normunds Lazdins\n
+• Andis Polakovs\n
+            And the application was developed by Normunds Lazdins</string>
+</resources>
