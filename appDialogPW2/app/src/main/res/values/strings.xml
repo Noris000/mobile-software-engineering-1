@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogApp</string>
+    <string name="first_activity">1-st Activity</string>
+    <string name="second_activity">2-nd Activity</string>
+    <string name="go_to_second">Go to 2-nd</string>
+    <string name="dialog_button">Dialog</string>
+    <string name="back">Back</string>
+    <string name="dialog_title">4 Group’s Dialog</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+</resources>
